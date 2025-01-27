@@ -1,4 +1,4 @@
 # GSAN-traffic
 
 
-## The code will be available soon.
+## Training code will be available soon.
